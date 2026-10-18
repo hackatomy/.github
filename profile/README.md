@@ -15,7 +15,7 @@
 
 ### Platformda neler var?
 
-| | |
+| Bölüm | İçerik |
 |---|---|
 | 🐧 **Linux** | Tarayıcıda gerçek Linux (v86), komut görevleri ve kalıcı dosya sistemi |
 | 📚 **Kurslar** | Kurs → Ünite → Ders düzeninde Türkçe içerik, testler ve uygulamalar |
