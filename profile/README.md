@@ -3,29 +3,35 @@
 </p>
 
 <p align="center">
-  <a href="https://hackatomy.nemesis-cybersec.workers.dev"><b>Siteye git</b></a> ·
-  <a href="https://github.com/hackatomy/Hackatomy"><b>Kaynak kod</b></a> ·
-  <a href="https://github.com/hackatomy/Hackatomy/blob/main/CONTRIBUTING.md"><b>Katkı rehberi</b></a> ·
-  <a href="https://github.com/hackatomy/Hackatomy/blob/main/SECURITY.md"><b>Güvenlik bildirimi</b></a>
+  <a href="https://hackatomy.com"><b>hackatomy.com</b></a> ·
+  <a href="https://discord.gg/y8vGjfjNDv"><b>Discord</b></a> ·
+  <a href="https://www.instagram.com/hackatomy/"><b>Instagram</b></a> ·
+  <a href="https://www.youtube.com/@hackatomy"><b>YouTube</b></a> ·
+  <a href="https://www.tiktok.com/@hackatomy.com"><b>TikTok</b></a>
 </p>
 
 ---
 
-**Hackatomy**, İstanbul Aydın Üniversitesi Siber Güvenlik Kulübü öğrencileri için hazırlanan, tarayıcıda çalışan bir siber güvenlik eğitim platformudur. Kurulum gerekmez: Linux terminali, SQL, Python ve ağ alıştırmaları doğrudan sayfada çalışır.
+**Hackatomy**, siber güvenliği sıfırdan öğrenmek isteyen herkes için Türkçe, ücretsiz ve tarayıcıda çalışan bir eğitim platformu. Kurulum gerekmez: Linux terminali, SQL, Python ve ağ alıştırmaları doğrudan sayfada çalışır. İstanbul Aydın Üniversitesi Siber Güvenlik Kulübü'nde kuruldu ve kulüpçe geliştiriliyor.
 
 ### Platformda neler var?
 
 | Bölüm | İçerik |
 |---|---|
-| 🐧 **Linux** | Tarayıcıda gerçek Linux (v86), komut görevleri ve kalıcı dosya sistemi |
-| 📚 **Kurslar** | Kurs → Ünite → Ders düzeninde Türkçe içerik, testler ve uygulamalar |
-| 🗄️ **SQL ve SQL Injection** | Örnek veritabanında sorgu yazma, açığı bulma ve kapatma |
-| 🌐 **Ağ** | Ağ laboratuvarı, paket analizi, 3D SimRoom |
-| 🔐 **Kriptografi** | Klasik şifrelerden özet fonksiyonlarına alıştırmalar |
-| 🚩 **CTF** | Kulüp içi yarışmalar ve sezon ligi |
-| 🧑‍🏫 **Eğitmen paneli** | Sınıf, öğrenci ilerlemesi ve ders notu kütüphanesi |
+| 📚 **Kurslar** | Kurs → ünite → ders düzeninde Türkçe içerik, testler, uygulamalar ve PDF ders kitapları |
+| 🐧 **Gerçek Linux** | Tarayıcıda çalışan Linux (v86): komut görevleri, kalıcı makine |
+| 💻 **SiberApp** | Kişisel çalışma alanı: VS Code görünümlü Python, gerçek SQLite ile SQL çalışma sayfası (HR şeması), akış diyagramı, paket analizi |
+| 🦈 **Paket analizi** | Wireshark benzeri görüntüleyici; görüntüleme filtreleri, akış takibi, kendi `.pcap` / `.pcapng` dosyanı açma |
+| 🌐 **SimRoom** | 3D siber güvenlik odası ve 18 görevli ağ laboratuvarı |
+| 🚩 **CTF ve oyunlar** | CTF görevleri, Siber Düello (senaryolu saldırı/savunma kart oyunu), Log Dedektifi, Oltalama mı? |
+| 🏫 **Okullar** | Okul ve bölüm sistemi, ödevler, eğitmen paneli, öğrenci ilerlemesi |
+| 🤖 **Lab** | Yapay zekâ çalışma arkadaşı |
 
-Arayüz Türkçe ve İngilizcedir.
+Arayüz Türkçe ve İngilizce. Tema seçenekleri, telefon ve bilgisayar arasında eşitlenen ayarlar, çevrimdışı kullanım.
+
+### Topluluk
+
+[Discord sunucumuzda](https://discord.gg/y8vGjfjNDv) soru sorabilir, CTF takımı bulabilir, etkinliklere katılabilirsin. Hesabını bağlarsan site rütben sunucuda rol olarak görünür; `/profil`, `/siralama`, `/quiz` komutları çalışır.
 
 ### Katkı vermek istersen
 
@@ -33,6 +39,6 @@ Arayüz Türkçe ve İngilizcedir.
 2. Kendi dalını aç (`ozellik/…`, `duzeltme/…`, `icerik/…`), değişikliğini yap, `npm test` çalıştır.
 3. Pull request aç. Testler geçip bir ekip üyesi onaylayınca `main` dalına alınır ve siteye çıkar.
 
-Güvenlik açığı bulduysan herkese açık issue açma; [SECURITY.md](https://github.com/hackatomy/Hackatomy/blob/main/SECURITY.md) içindeki yolu izle.
+Güvenlik açığı bulduysan herkese açık issue açma; [SECURITY.md](https://github.com/hackatomy/Hackatomy/blob/main/SECURITY.md) içindeki yolu izle ya da guvenlik@hackatomy.com adresine yaz.
 
-<sub>Vanilla JS · Cloudflare Workers · Supabase (PostgreSQL + RLS)</sub>
+<sub>Vanilla JS · Cloudflare Workers · Supabase (PostgreSQL + RLS) · v86 · three.js</sub>
